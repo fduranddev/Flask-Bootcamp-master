@@ -10,5 +10,8 @@ git remote add origin https://github.com/fduranddev/Flask-Bootcamp-master.git
 git push -u origin main
 ```
 
-
-
+```bash
+git remote add origin https://github.com/fduranddev/Flask-Bootcamp-master.git
+git branch -M main
+git push -u origin main
+```
